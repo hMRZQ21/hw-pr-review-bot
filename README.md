@@ -67,8 +67,8 @@ The workflow uses `pull_request_target`, the trigger security write-ups warn abo
 
 ## Impact
 
-- Reclaims about 3 hours of instructor time per week (reported by the author).
-- Projected to save 8 hours per week across a 5-person instruction team in Fall 2026. This is a projection, not a measurement.
+- Measured 2026-09-19 across the two course repositories: 455 fork-originated PRs; the bot auto-merged 155 and flagged 246 for revision.
+- Estimated 60+ instructor-hours saved, assuming 30 seconds per passing PR and up to 15 minutes per flagged PR (an estimate from those assumptions, not a measurement).
 
 ## Reusing it
 
